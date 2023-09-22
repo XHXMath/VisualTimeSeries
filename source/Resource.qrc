@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Logo.png</file>
+        <file>SDU_Math.png</file>
+    </qresource>
+</RCC>
